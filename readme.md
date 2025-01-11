@@ -30,6 +30,7 @@ If any non DSC Research Member is interested in joining the workshops, reach out
      b. Mar 29 -
      
 ### Video Recordings 
+(will be added in the due course of time)
 
 ### Team
       Hitesh, Shourya, Aaqil, Amit, Amrutha, Anish, Gaurish, Harikumar, Navneeth, Niall, Paarth, Rahul, Shilpi, Shubhansh, Sriansh
