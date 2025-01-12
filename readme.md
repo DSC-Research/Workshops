@@ -6,7 +6,7 @@
 
 DSC Research will be conducting a series of workshops in the Winter Semester of 2025, wherein the members themselves shall be conducting workshops on their favourite topics.
 Corresponding notebooks and powerpoints shall be uploaded once the workshops are completed. Recordings of the workshops shall also be uploaded within the same week, and links will be provided here.
-If any non DSC Research Member is interested in joining the workshops, reach out to DSC at [Instagram](https://www.instagram.com/datascienceclub.vitc/), or to [Shourya](https://www.linkedin.com/in/amspsingh04) or [Hitesh](https://www.linkedin.com/in/hiteshkrishna07)
+If any non DSC Research Member is interested in joining the workshops, reach out to DSC at [Instagram](https://www.instagram.com/datascienceclub.vitc/), or to [Hitesh](https://www.linkedin.com/in/hiteshkrishna07) or [Shourya](https://www.linkedin.com/in/amspsingh04)
 
 ## Order of Workshops
   1. a. Jan 5  - Sriansh: [Working with Image based Datasets](https://github.com/amspsingh04/Workshops-DSC-Research/blob/main/Sriansh%20-%20Work%20on%20Data.ipynb)
