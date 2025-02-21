@@ -15,9 +15,9 @@ If any non DSC Research Member is interested in joining the workshops, reach out
   2. a. Jan 11 - Aaqil: [Prototype Networks](https://github.com/amspsingh04/Workshops-DSC-Research/blob/main/Aaqil%20-%20prototype.ipynb)
 
      b. Jan 11 - Harikumar: [Neural Style Transfer](https://github.com/amspsingh04/Workshops-DSC-Research/blob/main/Harikumar%20-%20workshop-nst.ipynb)
-  3. a. Feb 8  - Niall: 
+  3. a. Feb 8  - Gaurish: [Fundamentals of NLP](https://github.com/DSC-Research/Workshops/blob/main/GAURISH%20WORKSHOP.ipynb)
 
-     b. Feb 8  - Gaurish:
+     b. Feb 8  - Shourya:
   4. a. Feb 15 -
 
      b. Feb 15 -
