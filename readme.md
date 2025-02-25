@@ -22,7 +22,7 @@ If any non DSC Research Member is interested in joining the workshops, reach out
 
      b. Feb 15 -
      
-  6. Feb 22 - [Joshua S Raju](https://github.com/JoshuaR26): [Understanding Object Detection](https://github.com/amspsingh04/Workshops-DSC-Research/blob/main/object_detection)
+  6. Feb 22 - [Joshua S Raju](https://github.com/JoshuaR26) : [Understanding Object Detection](https://github.com/amspsingh04/Workshops-DSC-Research/blob/main/object_detection)
 
   7. a. Mar 29 -
 
